@@ -17,6 +17,6 @@ This script runs a loop when you press F1 to Right click, Left click, and then R
 
 
 # Controls
-F1 - Starts Clicker
-F2 - Stops Clicker
-F3 - Terminates the script.
+F1 - Starts Clicker  
+F2 - Stops Clicker  
+F3 - Terminates the script.  
