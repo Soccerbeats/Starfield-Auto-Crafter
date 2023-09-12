@@ -1,6 +1,6 @@
 ﻿
 
-Esc::
+F3::
 ExitApp
 
 F2::
